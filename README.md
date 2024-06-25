@@ -15,6 +15,6 @@
  ## Font
  - https://fonts.google.com/specimen/Press+Start+2P?preview.layout=grid&query=Press+
 
- ## Hoted URL
+ ## Hosted URL
  - https://gallerie-webapp.netlify.app
 
